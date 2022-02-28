@@ -1,5 +1,5 @@
-# Viral Cure
-A place to gather knowledge and develop cures to viral diseases.
+# viralcure
+A place to gather knowledge on using virus to cure diseases.
 
 Feel free to contribute!
 
